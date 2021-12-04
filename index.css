@@ -1,10 +1,8 @@
-
-
 body{
     background-color: rgb(77, 77, 90);
 }
 
-#WIP{
+#wip{
     text-align: center;
     width: 100%;
     margin-top: 150px;
@@ -17,5 +15,4 @@ body{
     width: 100%;
     font-size: 15pt;
     font-family: 'Courier New', monospace;
-
 }
